@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
    <img align="center" alt="Augusto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Augusto-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Augusto-Pyt" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/gilbarbara/logos/tree/master/logos/pytorch.svg">
+  <img align="center" alt="Augusto-Pyt" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/gilbarbara/master/logos/pytorch.svg">
   <img align="center" alt="Augusto-NP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Augusto-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Augusto-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
