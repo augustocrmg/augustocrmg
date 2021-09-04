@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="network" height="80" width="80" src="https://i.pinimg.com/originals/b4/62/72/b462720205c39ab96276c907ff3a687d.gif">
+  <img align="center" alt="network" height="80" width="80" src="https://i.pinimg.com/originals/b4/62/72/b462720205c39ab96276c907ff3a687d.gif">
 </div>
   
   ##
