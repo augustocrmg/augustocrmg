@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/augustocrmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocrmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocrmg&layout=compact&langs_count=7&theme=dark&count_private=true&hide=jupyter%20notebook,html"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocrmg&layout=compact&langs_count=7&theme=dark&count_private=true&hide=html"/>
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocrmg&layout=compact&langs_count=7&theme=dark&count_private=true&hide=jupyter%20notebook,html"/>-->
     
 </div>
 <div style="display: inline_block"><br>
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
  
 <div> 
   <!--<a href="https://instagram.com/augustocrmg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-  <a href="https://instagram.com/augustocrmg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:augusto.duraes33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-dur%C3%A3es-camargo-36a8b1144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://t.me/azrael3333" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
